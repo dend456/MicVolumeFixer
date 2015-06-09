@@ -1,0 +1,14 @@
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\naudio\license.txt
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\icon.ico
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\MicVolume.exe.config
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\MicVolume.exe
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\NAudio.dll
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\NAudio.WindowsMediaFormat.dll
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\NAudio.xml
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Release\MicVolume.Form1.resources
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Release\MicVolume.Properties.Resources.resources
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Release\MicVolume.csproj.GenerateResource.Cache
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Release\MicVolume.exe
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Release\MicVolume.csprojResolveAssemblyReference.cache
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Release\MicVolume.pdb
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Release\MicVolume.pdb
