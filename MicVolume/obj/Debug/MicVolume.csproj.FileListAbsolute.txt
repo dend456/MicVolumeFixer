@@ -21,3 +21,4 @@ C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Debug
 C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Debug\MicVolume.pdb
 C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Debug\MicVolume.pdb
 C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\obj\Debug\MicVolume.csprojResolveAssemblyReference.cache
+C:\Users\dan\Documents\Visual Studio 2015\Projects\MicVolume\MicVolume\bin\Debug\naudio\license.txt

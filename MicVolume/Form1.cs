@@ -34,10 +34,8 @@ namespace MicVolume
             
 
             //Create menu
-            MenuItem nameMenuItem = new MenuItem("Made by: Fizzlesticks");
             MenuItem quitMenuItem = new MenuItem("Quit");
             ContextMenu contextMenu = new ContextMenu();
-            contextMenu.MenuItems.Add(nameMenuItem);
             contextMenu.MenuItems.Add(quitMenuItem);
             trayIcon.ContextMenu = contextMenu;
 
